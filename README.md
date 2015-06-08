@@ -1,2 +1,2 @@
 # teste
-testing gihub
+checking out how github works
